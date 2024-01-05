@@ -1,1 +1,2 @@
-# SpringBoot-JDBC-using-jdbcTemplate
+# SpringBoot JDBC
+using jdbc template with H2 Database
