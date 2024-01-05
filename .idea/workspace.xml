@@ -5,33 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f001932-95e9-4077-bf5f-566f3afdaf9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/SpringBoot-JDBC-using-jdbcTemplate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringJDBC/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringJDBC/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringJDBC/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringJDBC/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringJDBC/src/main/java/com/abhi/SpringJDBC/SpringJdbcApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abhi/SpringJDBC/SpringJdbcApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringJDBC/src/main/java/com/abhi/SpringJDBC/model/Alien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abhi/SpringJDBC/model/Alien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringJDBC/src/main/java/com/abhi/SpringJDBC/repository/AlienRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abhi/SpringJDBC/repository/AlienRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringJDBC/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringJDBC/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringJDBC/src/main/resources/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/schema.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringJDBC/src/test/java/com/abhi/SpringJDBC/SpringJdbcApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/abhi/SpringJDBC/SpringJdbcApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringJDBC/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringJDBC/target/classes/com/abhi/SpringJDBC/SpringJdbcApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/abhi/SpringJDBC/SpringJdbcApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringJDBC/target/classes/com/abhi/SpringJDBC/model/Alien.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/abhi/SpringJDBC/model/Alien.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringJDBC/target/classes/com/abhi/SpringJDBC/repository/AlienRepository$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/abhi/SpringJDBC/repository/AlienRepository$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringJDBC/target/classes/com/abhi/SpringJDBC/repository/AlienRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/abhi/SpringJDBC/repository/AlienRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringJDBC/target/classes/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringJDBC/target/classes/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/schema.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringJDBC/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringJDBC/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringJDBC/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
